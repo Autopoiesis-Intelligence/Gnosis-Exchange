@@ -20,3 +20,7 @@ This repository is currently a scaffold. This README records intended scope only
 ## Repository boundary
 
 The private repository `Gnosis-Genesis` exists, but its factory, production, and authority responsibilities have not been confirmed from its current repository contents. Gnosis-Exchange does not grant authority over Gnosis-Core.
+
+## Naming
+
+The canonical project spelling is **Gnosis**. **Genesis** names the protected factory layer; it is not an alternative spelling of Gnosis.
