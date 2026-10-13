@@ -19,4 +19,4 @@ This repository is currently a scaffold. This README records intended scope only
 
 ## Naming
 
-The canonical project spelling is **Gnosis**. **Genesis** names the protected factory layer; it is not an alternative spelling of Gnosis.
+The canonical project name is **Gnosis**. The separate private repository **Gnosis-Genesis** documents an intended factory/orchestration role; this does not by itself establish an operational end-to-end factory or execution authority.
